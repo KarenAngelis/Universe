@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75a5d649.css",
+    "main.js": "/static/js/main.fc0f5045.js",
+    "static/js/453.0cdbd17a.chunk.js": "/static/js/453.0cdbd17a.chunk.js",
+    "static/media/mountains-universe02.png": "/static/media/mountains-universe02.800fa8d7feed62dfbaa2.png",
+    "static/media/mountains-universe-1.png": "/static/media/mountains-universe-1.d238da84d7fc765db557.png",
+    "static/media/mountains-universe-3.png": "/static/media/mountains-universe-3.977b169b7d353259da95.png",
+    "index.html": "/index.html",
+    "main.75a5d649.css.map": "/static/css/main.75a5d649.css.map",
+    "main.fc0f5045.js.map": "/static/js/main.fc0f5045.js.map",
+    "453.0cdbd17a.chunk.js.map": "/static/js/453.0cdbd17a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75a5d649.css",
+    "static/js/main.fc0f5045.js"
+  ]
+}
