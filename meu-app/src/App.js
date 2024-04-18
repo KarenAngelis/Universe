@@ -22,7 +22,8 @@ function PageLayout() {
   const backgroundImages = {
     '/': homeBackground,
     '/universe': universeBackground,
-    '/exploration': explorationBackground
+    '/exploration': explorationBackground,
+    '/o-universo': universeBackground // Adicionando rota para a página "O universo"
   };
 
   const currentBackground = backgroundImages[location.pathname] || homeBackground;
@@ -41,6 +42,7 @@ function PageLayout() {
         <Route path="/" element={<Home />} />
         <Route path="/universe" element={<Universe />} />
         <Route path="/exploration" element={<Exploration />} />
+        <Route path="/o-universo" element={<Universe />} /> {/* Rota para a página "O universo" */}
       </Routes>
     </div>
   );

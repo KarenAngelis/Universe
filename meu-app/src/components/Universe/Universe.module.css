@@ -1,0 +1,26 @@
+h1, p{
+    color: #E1E1E6;
+    padding: 6.3rem 7.2rem 0.1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    display: flex;
+    justify-content:first baseline ;
+    align-items: center;
+}
+
+
+h1{
+    font-weight:bold;
+    font-size: 4.8rem;
+    margin-bottom: -2.70rem;
+   }
+
+/* Estilo específico para parágrafos */
+p {
+    margin-top: 0.1rem; /* Ajuste conforme necessário */
+    font-size: 1.8rem; /* Tamanho de fonte maior para legibilidade */
+    line-height: 2.6; /* Espaçamento entre linhas para melhorar a legibilidade */
+    letter-spacing: 0.1rem; /* Espaçamento entre letras */
+    max-width: 40%; /* Controla a largura máxima do parágrafo */
+    
+
+  }
